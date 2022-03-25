@@ -165,9 +165,9 @@
 }
         @font-face {
         font-family:'vcr';
-        src:url('https://twofoldapperception.neocities.org/ASSET/vcr.woff2') format('woff2'),
-        url('https://twofoldapperception.neocities.org/ASSET/vcr.woff') format('woff'),
-        url('https://twofoldapperception.neocities.org/ASSET/vcr.ttf') format('truetype');
+        src:url('https://raw.githubusercontent.com/twofoldApperception/ta-codes/blob/main/fonts/vcr.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/twofoldApperception/ta-codes/blob/main/fonts/vcr.woff') format('woff'),
+        url('https://raw.githubusercontent.com/twofoldApperception/ta-codes/blob/main/fonts/vcr.ttf') format('truetype');
         font-weight:normal;
         font-style:normal;
     }
